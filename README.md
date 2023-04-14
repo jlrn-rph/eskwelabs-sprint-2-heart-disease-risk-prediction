@@ -24,3 +24,5 @@ In conclusion, the study found that men are more susceptible to heart disease, a
 
 ## Meet the Team
 [Austin Loi Carvajal](https://www.linkedin.com/in/austincarvajal) | [Justin Louise Neypes](https://www.linkedin.com/in/jlrnrph/) | Walter Boo
+ 
+Mentor: Paolo Dano

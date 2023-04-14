@@ -523,6 +523,8 @@ def the_team():
         """
     )
 
+    st.subheader("Mentor: Paolo Dano")
+
 # Define the main menu
 list_of_pages = [
     "Introduction",
